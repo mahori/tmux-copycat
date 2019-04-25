@@ -24,3 +24,6 @@ copycat_hash_search_option="@copycat_hash_search"
 
 default_ip_search_key="M-i"
 copycat_ip_search_option="@copycat_ip_search"
+
+default_cidr_search_key="M-c"
+copycat_cidr_search_option="@copycat_cidr_search"
